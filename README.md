@@ -1,5 +1,3 @@
-Certainly! Here's a more concise README for your password entropy calculator:
-
 ---
 
 # Password Entropy Calculator
